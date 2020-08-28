@@ -1,7 +1,5 @@
 package com.company.validators;
 
-import com.company.form.Ci;
-
 import javax.validation.*;
 import java.util.Set;
 

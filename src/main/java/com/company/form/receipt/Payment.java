@@ -1,4 +1,4 @@
-package com.company.form;
+package com.company.form.receipt;
 
 import com.company.enums.PaymentMethod;
 
